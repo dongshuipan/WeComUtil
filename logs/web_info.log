@@ -1,0 +1,79 @@
+2023-04-18 10:11:46.540 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 10:11:46.551 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 20704 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 10:11:46.551 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-18 10:11:47.414 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-18 10:11:47.422 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-18 10:11:47.422 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-18 10:11:47.422 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-18 10:11:47.472 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-18 10:11:47.472 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 894 ms
+2023-04-18 10:11:47.921 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:11:48.151 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-18 10:11:48.197 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-18 10:11:48.203 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.998 seconds (JVM running for 2.511)
+2023-04-18 10:12:11.475 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:12:13.524 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 10:12:13.530 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 11876 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 10:12:13.531 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-18 10:12:14.199 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8821 (http)
+2023-04-18 10:12:14.204 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8821"]
+2023-04-18 10:12:14.204 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-18 10:12:14.204 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-18 10:12:14.248 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-18 10:12:14.248 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 693 ms
+2023-04-18 10:12:14.725 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:12:14.937 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8821"]
+2023-04-18 10:12:14.986 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8821 (http) with context path ''
+2023-04-18 10:12:14.991 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.722 seconds (JVM running for 2.192)
+2023-04-18 10:12:25.733 [http-nio-8821-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-18 10:12:25.733 [http-nio-8821-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-18 10:12:25.741 [http-nio-8821-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2023-04-18 10:13:03.566 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:13:26.903 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 2244 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 10:13:26.904 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 10:13:26.910 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 10:13:28.894 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:13:29.305 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 2.566 seconds (JVM running for 3.19)
+2023-04-18 10:13:29.486 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:51:20.717 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 352 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 10:51:20.723 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 10:51:20.723 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 10:51:22.219 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:51:22.525 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.974 seconds (JVM running for 2.552)
+2023-04-18 10:51:22.714 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:54:22.728 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 19840 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 10:54:22.729 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 10:54:22.733 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 10:54:24.132 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:54:24.438 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.875 seconds (JVM running for 2.455)
+2023-04-18 10:54:24.602 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:59:56.142 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 21536 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 10:59:56.143 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 10:59:56.147 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 10:59:57.512 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 10:59:57.843 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.872 seconds (JVM running for 2.604)
+2023-04-18 10:59:58.005 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 11:11:43.192 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 28384 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 11:11:43.194 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 11:11:43.204 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 11:11:44.782 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 11:11:45.147 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 2.158 seconds (JVM running for 2.881)
+2023-04-18 11:11:45.342 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 11:13:10.075 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 24596 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 11:13:10.076 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 11:13:10.079 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 11:13:11.427 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 11:13:11.715 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.808 seconds (JVM running for 2.385)
+2023-04-18 11:13:11.861 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 14:05:36.781 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 22584 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 14:05:36.782 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 14:05:36.787 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 14:05:38.357 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 14:05:38.683 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 2.071 seconds (JVM running for 2.679)
+2023-04-18 14:05:38.868 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-18 14:54:54.192 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 27012 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-18 14:54:54.193 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-18 14:54:54.201 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-18 14:54:55.716 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-18 14:54:56.068 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 2.095 seconds (JVM running for 2.736)
+2023-04-18 14:54:56.280 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

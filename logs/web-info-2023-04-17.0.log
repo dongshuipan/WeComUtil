@@ -1,0 +1,379 @@
+2023-04-17 15:32:38.011 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:32:38.016 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 24560 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:32:38.016 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 15:32:38.742 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 15:32:38.749 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:32:38.750 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 15:32:38.750 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 15:32:38.801 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 15:32:38.801 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 756 ms
+2023-04-17 15:32:39.232 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:32:39.432 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:32:39.488 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 15:32:39.493 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.84 seconds (JVM running for 2.436)
+2023-04-17 15:32:59.011 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 15:32:59.011 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 15:32:59.018 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2023-04-17 15:32:59.031 [http-nio-8820-exec-1] INFO  com.example.wechat.WeChatApplication - info
+2023-04-17 15:34:58.705 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:35:01.835 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:35:01.840 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 22696 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:35:01.840 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 15:35:02.529 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 15:35:02.534 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:35:02.534 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 15:35:02.534 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 15:35:02.570 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 15:35:02.570 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 706 ms
+2023-04-17 15:35:03.004 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:35:03.214 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:35:03.266 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 15:35:03.271 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.675 seconds (JVM running for 2.149)
+2023-04-17 15:35:47.832 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:35:50.752 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:35:50.759 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 10136 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:35:50.759 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 15:35:51.438 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 15:35:51.444 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:35:51.444 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 15:35:51.444 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 15:35:51.482 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 15:35:51.482 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 697 ms
+2023-04-17 15:35:51.903 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:35:52.093 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:35:52.150 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 15:35:52.156 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.658 seconds (JVM running for 2.139)
+2023-04-17 15:36:22.474 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 15:36:22.475 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 15:36:22.484 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2023-04-17 15:36:22.507 [http-nio-8820-exec-1] INFO  com.example.wechat.WeChatApplication - info
+2023-04-17 15:36:22.509 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 15:36:22.509 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/Test/logColor
+2023-04-17 15:36:22.509 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:测试日志颜色
+2023-04-17 15:36:22.509 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:8毫秒
+2023-04-17 15:36:22.509 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 15:36:22.519 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:[]
+2023-04-17 15:36:22.519 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:"over!!!"
+2023-04-17 15:36:22.519 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 15:47:56.358 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:47:59.930 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:47:59.938 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 27848 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:47:59.939 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 15:48:00.688 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 15:48:00.695 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:48:00.696 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 15:48:00.696 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 15:48:00.742 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 15:48:00.742 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 775 ms
+2023-04-17 15:48:01.213 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:48:01.443 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:48:01.505 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 15:48:01.510 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.846 seconds (JVM running for 2.359)
+2023-04-17 15:48:07.256 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 15:48:07.256 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 15:48:07.263 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2023-04-17 15:48:44.817 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 2760 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:48:44.818 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-17 15:48:44.821 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:48:46.215 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:48:46.516 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.865 seconds (JVM running for 2.543)
+2023-04-17 15:48:46.740 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:49:47.984 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:51:41.263 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 25544 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:51:41.264 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-17 15:51:41.270 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:51:42.636 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:51:42.949 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.867 seconds (JVM running for 2.441)
+2023-04-17 15:51:43.087 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:56:52.276 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:56:52.284 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 3080 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:56:52.284 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 15:56:53.013 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 15:56:53.019 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:56:53.019 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 15:56:53.019 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 15:56:53.062 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 15:56:53.062 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 752 ms
+2023-04-17 15:56:53.482 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:56:53.676 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:56:53.731 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 15:56:53.736 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.744 seconds (JVM running for 2.417)
+2023-04-17 15:57:09.841 [http-nio-8820-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 15:57:09.841 [http-nio-8820-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 15:57:09.848 [http-nio-8820-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2023-04-17 15:57:16.294 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 15:57:16.295 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 15:57:16.295 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 15:57:16.295 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:936毫秒
+2023-04-17 15:57:16.295 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 15:57:16.318 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 15:57:16.318 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 15:57:16.318 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 15:58:21.845 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:58:25.840 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 15:58:25.843 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 16084 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 15:58:25.844 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 15:58:26.546 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 15:58:26.552 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:58:26.552 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 15:58:26.552 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 15:58:26.594 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 15:58:26.594 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 726 ms
+2023-04-17 15:58:27.047 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 15:58:27.249 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 15:58:27.298 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 15:58:27.304 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.709 seconds (JVM running for 2.205)
+2023-04-17 15:58:43.633 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 15:58:43.633 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 15:58:43.640 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2023-04-17 15:58:44.439 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 15:58:44.439 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 15:58:44.439 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 15:58:44.440 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:777毫秒
+2023-04-17 15:58:44.440 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 15:58:44.450 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 15:58:44.450 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 15:58:44.450 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:00:37.485 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:00:37.485 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:00:37.485 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:00:37.486 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:368毫秒
+2023-04-17 16:00:37.486 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:00:37.486 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:00:37.486 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:00:37.487 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:00:42.851 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:00:46.119 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 16:00:46.125 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 21500 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 16:00:46.126 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 16:00:46.942 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 16:00:46.949 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:00:46.950 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 16:00:46.950 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 16:00:46.998 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 16:00:46.998 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 847 ms
+2023-04-17 16:00:47.453 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:00:47.661 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:00:47.719 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 16:00:47.725 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.852 seconds (JVM running for 2.356)
+2023-04-17 16:00:53.217 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 16:00:53.217 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 16:00:53.225 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2023-04-17 16:00:54.004 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:00:54.004 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:00:54.004 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:00:54.004 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:752毫秒
+2023-04-17 16:00:54.005 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:00:54.015 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:00:54.015 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:00:54.015 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:06:46.767 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:06:50.126 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 16:06:50.130 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 10708 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 16:06:50.130 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 16:06:50.825 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 16:06:50.832 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:50.832 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 16:06:50.832 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 16:06:50.878 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 16:06:50.878 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 726 ms
+2023-04-17 16:06:51.382 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:06:51.611 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:51.623 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 16:06:51.628 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.707 seconds (JVM running for 2.109)
+2023-04-17 16:06:51.669 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 16:06:51.676 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 10568 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 16:06:51.676 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 16:06:52.402 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 16:06:52.410 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:52.410 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 16:06:52.411 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 16:06:52.536 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 16:06:52.536 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 835 ms
+2023-04-17 16:06:52.973 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:06:53.168 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:53.217 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:06:53.219 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:53.219 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-04-17 16:06:53.222 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:53.222 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:53.226 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-04-17 16:06:53.430 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:06:55.510 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 16:06:55.516 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 32064 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 16:06:55.517 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 16:06:56.209 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 16:06:56.214 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:56.214 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 16:06:56.214 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 16:06:56.249 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 16:06:56.249 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 707 ms
+2023-04-17 16:06:56.692 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:06:56.915 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 16:06:56.965 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 16:06:56.971 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 1.716 seconds (JVM running for 2.302)
+2023-04-17 16:07:05.181 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 16:07:05.182 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 16:07:05.189 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2023-04-17 16:07:05.831 [http-nio-8820-exec-1] INFO  com.example.wechat.WeChatApplication - 请求数据：{'url':$https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI,'data':${"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:07:05.997 [http-nio-8820-exec-1] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户信息：{'url':$https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000,'data':${"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681718825612131977966073], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:07:05.998 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:07:05.999 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:07:05.999 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:07:05.999 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:788毫秒
+2023-04-17 16:07:05.999 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:07:06.010 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:07:06.010 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:07:06.010 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:07:39.488 [http-nio-8820-exec-3] INFO  com.example.wechat.WeChatApplication - 请求数据：{'url':https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI,'data':{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:07:39.568 [http-nio-8820-exec-3] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户信息：{'url':https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000,'data':{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681718858307410138952326], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:07:39.568 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:07:39.568 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:07:39.568 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:07:39.568 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:271毫秒
+2023-04-17 16:07:39.568 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:07:39.569 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:07:39.569 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:07:39.569 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:09:06.999 [http-nio-8820-exec-4] INFO  com.example.wechat.WeChatApplication - 请求数据：{'url':https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI,'data':{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:09:07.113 [http-nio-8820-exec-4] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{'url':https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000,'data':{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681718946372880674761312], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:09:07.113 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:09:07.113 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:09:07.113 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:09:07.115 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:326毫秒
+2023-04-17 16:09:07.115 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:09:07.115 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:09:07.115 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:09:07.115 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:10:58.725 [http-nio-8820-exec-7] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI,"data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:10:58.821 [http-nio-8820-exec-7] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000,"data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719057480133844177962], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:10:58.821 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:10:58.821 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:10:58.821 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:10:58.822 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:309毫秒
+2023-04-17 16:10:58.822 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:10:58.822 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:10:58.822 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:10:58.822 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:12:46.398 [http-nio-8820-exec-9] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI,"data":"{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}"}
+2023-04-17 16:12:46.507 [http-nio-8820-exec-9] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000,"data":"{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719165431494257154432], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}"}
+2023-04-17 16:12:46.507 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:12:46.507 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:12:46.508 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:12:46.508 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:365毫秒
+2023-04-17 16:12:46.508 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:12:46.508 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:12:46.509 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:12:46.509 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:13:48.941 [http-nio-8820-exec-2] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI,"data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:13:49.048 [http-nio-8820-exec-2] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000,"data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719228347280712456865], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:13:49.048 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:13:49.048 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:13:49.049 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:13:49.049 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:323毫秒
+2023-04-17 16:13:49.049 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:13:49.049 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:13:49.049 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:13:49.049 [http-nio-8820-exec-2] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:14:48.372 [http-nio-8820-exec-6] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:14:48.459 [http-nio-8820-exec-6] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719287307413558282744], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:374毫秒
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:14:48.460 [http-nio-8820-exec-6] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:14:57.270 [http-nio-8820-exec-7] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:14:57.417 [http-nio-8820-exec-7] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719296372881026337278], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:372毫秒
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:14:57.419 [http-nio-8820-exec-7] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:16:51.674 [http-nio-8820-exec-8] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:16:51.813 [http-nio-8820-exec-8] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719410640292834254377], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:16:51.813 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:16:51.813 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:16:51.813 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:16:51.813 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:344毫秒
+2023-04-17 16:16:51.813 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:16:51.814 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:16:51.814 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:16:51.814 [http-nio-8820-exec-8] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:17:32.648 [http-nio-8820-exec-9] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:17:32.743 [http-nio-8820-exec-9] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719451307412818280861], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:311毫秒
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:17:32.744 [http-nio-8820-exec-9] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:19:51.018 [http-nio-8820-exec-1] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA","expires_in":7200}}
+2023-04-17 16:19:51.174 [http-nio-8820-exec-1] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=gbZ_FRluq777fhXZ_v2wb3xq0XwdZTq0JswpF7UMaXbViqyALzJzE4Q00X0xeDqMYGkyHF8jw72udosdGGtAwIUAuA9R93X4CgqX6OLCjAzO-XeKbriytl3xlq0eAQiP3ZjFyWPlWseF9UdMWo5_oXjK2juUgIk-B1j79ImbhkXVsbYVLVhYB4Kp4GM_c0xHS0ySrxG4ibbykTJCeiLJpA&code=80000&debug=1","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681719590612132898751251], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 16:19:51.175 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 16:19:51.175 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 16:19:51.175 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 16:19:51.175 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:417毫秒
+2023-04-17 16:19:51.175 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 16:19:51.175 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["80000"]
+2023-04-17 16:19:51.176 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 16:19:51.176 [http-nio-8820-exec-1] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 16:22:03.731 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:22:10.826 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 34152 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 16:22:10.827 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-17 16:22:10.832 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 16:22:12.144 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 16:22:12.431 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.764 seconds (JVM running for 2.338)
+2023-04-17 16:22:12.633 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 17:13:35.216 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 17:13:35.245 [main] INFO  com.example.wechat.WeChatApplication - Starting WeChatApplication on jinfulai-pc with PID 27028 (D:\project\work\test\WeChat\WeChat\target\classes started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 17:13:35.246 [main] INFO  com.example.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2023-04-17 17:13:36.296 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8820 (http)
+2023-04-17 17:13:36.304 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8820"]
+2023-04-17 17:13:36.304 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-17 17:13:36.304 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2023-04-17 17:13:36.364 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-17 17:13:36.364 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1021 ms
+2023-04-17 17:13:36.816 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 17:13:37.025 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8820"]
+2023-04-17 17:13:37.088 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8820 (http) with context path ''
+2023-04-17 17:13:37.095 [main] INFO  com.example.wechat.WeChatApplication - Started WeChatApplication in 2.273 seconds (JVM running for 2.987)
+2023-04-17 17:13:43.008 [http-nio-8820-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-17 17:13:43.008 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-17 17:13:43.018 [http-nio-8820-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-04-17 17:13:54.235 [http-nio-8820-exec-4] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"_C7M5WXpyuEw9qIIKTS11mf1jdnQyhOOu9vIby-ZColvlV63n1X0YuJ80FgPgopRQNPqfI7KrJHEe4KMH4idJTh9McgJ59DoN-wP1NRBUKgBOezQPvsdMjzV6PmbyyiRysF5rbFmgOONIQHYzICdHjJtrUjjLhw7lWcWIw__rhK-DY635rjOjfz9PyCIBk1cT6c3BhRqxN40Iu4rx0ODnQ","expires_in":7200}}
+2023-04-17 17:13:54.418 [http-nio-8820-exec-4] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=_C7M5WXpyuEw9qIIKTS11mf1jdnQyhOOu9vIby-ZColvlV63n1X0YuJ80FgPgopRQNPqfI7KrJHEe4KMH4idJTh9McgJ59DoN-wP1NRBUKgBOezQPvsdMjzV6PmbyyiRysF5rbFmgOONIQHYzICdHjJtrUjjLhw7lWcWIw__rhK-DY635rjOjfz9PyCIBk1cT6c3BhRqxN40Iu4rx0ODnQ&code=12123123&debug=1","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681722833372883828606699], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 17:13:54.420 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 17:13:54.422 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 17:13:54.423 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 17:13:54.423 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:964毫秒
+2023-04-17 17:13:54.423 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 17:13:54.431 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["12123123"]
+2023-04-17 17:13:54.432 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 17:13:54.432 [http-nio-8820-exec-4] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 17:14:25.337 [http-nio-8820-exec-3] INFO  com.example.wechat.WeChatApplication - 请求数据：{"url":"https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=wwe8a388f119df9241&corpsecret=QqJ4O_Adgv2SwivaN-eMuTFem4Uz3xju0e6KlHuUKdI","data":{"errcode":0,"errmsg":"ok","access_token":"_C7M5WXpyuEw9qIIKTS11mf1jdnQyhOOu9vIby-ZColvlV63n1X0YuJ80FgPgopRQNPqfI7KrJHEe4KMH4idJTh9McgJ59DoN-wP1NRBUKgBOezQPvsdMjzV6PmbyyiRysF5rbFmgOONIQHYzICdHjJtrUjjLhw7lWcWIw__rhK-DY635rjOjfz9PyCIBk1cT6c3BhRqxN40Iu4rx0ODnQ","expires_in":7200}}
+2023-04-17 17:14:25.427 [http-nio-8820-exec-3] INFO  com.example.wechat.WeChatApplication - 获取企业微信用户 Ticket：{"url":"https://qyapi.weixin.qq.com/cgi-bin/auth/getuserinfo?access_token=_C7M5WXpyuEw9qIIKTS11mf1jdnQyhOOu9vIby-ZColvlV63n1X0YuJ80FgPgopRQNPqfI7KrJHEe4KMH4idJTh9McgJ59DoN-wP1NRBUKgBOezQPvsdMjzV6PmbyyiRysF5rbFmgOONIQHYzICdHjJtrUjjLhw7lWcWIw__rhK-DY635rjOjfz9PyCIBk1cT6c3BhRqxN40Iu4rx0ODnQ&code=12123123&debug=1","data":{"errcode":60020,"errmsg":"not allow to access from your ip, hint: [1681722864347281051061004], from ip: 125.69.145.124, more info at https://open.work.weixin.qq.com/devtool/query?e=60020"}}
+2023-04-17 17:14:25.428 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出START------------------------
+2023-04-17 17:14:25.428 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - URL:http://6c43bfd1.r12.cpolar.top/login/code
+2023-04-17 17:14:25.428 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - des:code登录
+2023-04-17 17:14:25.428 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - 执行时间:334毫秒
+2023-04-17 17:14:25.428 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - clientIp:148.59.74.211
+2023-04-17 17:14:25.429 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - request args:["12123123"]
+2023-04-17 17:14:25.429 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - response Data:null
+2023-04-17 17:14:25.429 [http-nio-8820-exec-3] INFO  com.example.wechat.interceptor.WebLogRecordAspect - ------------------------请求日志输出END------------------------
+2023-04-17 17:48:24.922 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-04-17 18:33:44.761 [main] INFO  com.example.wechat.WeChatApplicationTests - Starting WeChatApplicationTests on jinfulai-pc with PID 23248 (started by admin in D:\project\work\test\WeChat\WeChat)
+2023-04-17 18:33:44.763 [main] INFO  com.example.wechat.WeChatApplicationTests - No active profile set, falling back to default profiles: default
+2023-04-17 18:33:44.768 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2023-04-17 18:33:46.256 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-17 18:33:46.541 [main] INFO  com.example.wechat.WeChatApplicationTests - Started WeChatApplicationTests in 1.983 seconds (JVM running for 2.563)
+2023-04-17 18:33:46.727 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
